@@ -1,13 +1,3 @@
-/****************************************************************************** 
-This is to certify that this project is my own & partners work, based on 
-my/our personal efforts in studying and applying the concepts learned. I/we 
-have constructed the functions and their respective algorithms and 
-corresponding code by me. The program was run, tested, and 
-debugged by my own efforts. I further certify that I have not copied in 
-part or whole or otherwise plagiarized the work of other students and/or 
-persons. 
-<VINCE ALEJSON V. ALEJANDRINO> - <12206342>
-******************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
